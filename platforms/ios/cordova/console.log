@@ -1,0 +1,648 @@
+2014-08-18 13:03:36.970 reviews[12556:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:03:36.975 reviews[12556:70b] Unlimited access to network resources
+2014-08-18 13:03:36.989 reviews[12556:70b] [CDVTimer][keyboard] 0.050008ms
+2014-08-18 13:03:36.989 reviews[12556:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:03:36.989 reviews[12556:70b] [CDVTimer][statusbar] 0.498056ms
+2014-08-18 13:03:36.990 reviews[12556:70b] [CDVTimer][TotalPluginStartup] 1.433015ms
+2014-08-18 13:03:37.083 reviews[12556:70b] Resetting plugins due to page load.
+2014-08-18 13:03:37.167 reviews[12556:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:19:04.204 reviews[12919:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:19:04.210 reviews[12919:70b] Unlimited access to network resources
+2014-08-18 13:19:04.227 reviews[12919:70b] [CDVTimer][keyboard] 0.070035ms
+2014-08-18 13:19:04.228 reviews[12919:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:19:04.228 reviews[12919:70b] [CDVTimer][statusbar] 0.404000ms
+2014-08-18 13:19:04.228 reviews[12919:70b] [CDVTimer][TotalPluginStartup] 1.320004ms
+2014-08-18 13:19:04.293 reviews[12919:70b] Resetting plugins due to page load.
+2014-08-18 13:19:04.412 reviews[12919:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:22:35.225 reviews[13346:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:22:35.230 reviews[13346:70b] Unlimited access to network resources
+2014-08-18 13:22:35.243 reviews[13346:70b] [CDVTimer][keyboard] 0.049055ms
+2014-08-18 13:22:35.244 reviews[13346:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:22:35.244 reviews[13346:70b] [CDVTimer][statusbar] 0.404954ms
+2014-08-18 13:22:35.245 reviews[13346:70b] [CDVTimer][TotalPluginStartup] 1.320958ms
+2014-08-18 13:22:35.272 reviews[13346:70b] Resetting plugins due to page load.
+2014-08-18 13:22:35.353 reviews[13346:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:23:59.903 reviews[13912:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:23:59.908 reviews[13912:70b] Unlimited access to network resources
+2014-08-18 13:23:59.921 reviews[13912:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 13:23:59.921 reviews[13912:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:23:59.922 reviews[13912:70b] [CDVTimer][statusbar] 0.438035ms
+2014-08-18 13:23:59.922 reviews[13912:70b] [CDVTimer][TotalPluginStartup] 1.431048ms
+2014-08-18 13:23:59.950 reviews[13912:70b] Resetting plugins due to page load.
+2014-08-18 13:24:00.030 reviews[13912:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:25:36.487 reviews[14194:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:25:36.493 reviews[14194:70b] Unlimited access to network resources
+2014-08-18 13:25:36.506 reviews[14194:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-18 13:25:36.506 reviews[14194:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:25:36.507 reviews[14194:70b] [CDVTimer][statusbar] 0.373006ms
+2014-08-18 13:25:36.507 reviews[14194:70b] [CDVTimer][TotalPluginStartup] 1.307011ms
+2014-08-18 13:25:36.534 reviews[14194:70b] Resetting plugins due to page load.
+2014-08-18 13:25:36.616 reviews[14194:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:26:57.709 reviews[14478:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:26:57.714 reviews[14478:70b] Unlimited access to network resources
+2014-08-18 13:26:57.727 reviews[14478:70b] [CDVTimer][keyboard] 0.046968ms
+2014-08-18 13:26:57.727 reviews[14478:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:26:57.728 reviews[14478:70b] [CDVTimer][statusbar] 0.466049ms
+2014-08-18 13:26:57.728 reviews[14478:70b] [CDVTimer][TotalPluginStartup] 1.419008ms
+2014-08-18 13:26:57.756 reviews[14478:70b] Resetting plugins due to page load.
+2014-08-18 13:26:57.836 reviews[14478:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:28:30.881 reviews[14758:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:28:30.886 reviews[14758:70b] Unlimited access to network resources
+2014-08-18 13:28:30.899 reviews[14758:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 13:28:30.900 reviews[14758:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:28:30.900 reviews[14758:70b] [CDVTimer][statusbar] 0.469983ms
+2014-08-18 13:28:30.901 reviews[14758:70b] [CDVTimer][TotalPluginStartup] 1.473010ms
+2014-08-18 13:28:30.929 reviews[14758:70b] Resetting plugins due to page load.
+2014-08-18 13:28:31.011 reviews[14758:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:29:07.254 reviews[15038:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:29:07.259 reviews[15038:70b] Unlimited access to network resources
+2014-08-18 13:29:07.272 reviews[15038:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-18 13:29:07.272 reviews[15038:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:29:07.273 reviews[15038:70b] [CDVTimer][statusbar] 0.443041ms
+2014-08-18 13:29:07.273 reviews[15038:70b] [CDVTimer][TotalPluginStartup] 1.393974ms
+2014-08-18 13:29:07.302 reviews[15038:70b] Resetting plugins due to page load.
+2014-08-18 13:29:07.383 reviews[15038:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:29:48.360 reviews[15315:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:29:48.365 reviews[15315:70b] Unlimited access to network resources
+2014-08-18 13:29:48.378 reviews[15315:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 13:29:48.379 reviews[15315:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:29:48.379 reviews[15315:70b] [CDVTimer][statusbar] 0.470996ms
+2014-08-18 13:29:48.380 reviews[15315:70b] [CDVTimer][TotalPluginStartup] 1.376987ms
+2014-08-18 13:29:48.408 reviews[15315:70b] Resetting plugins due to page load.
+2014-08-18 13:29:48.489 reviews[15315:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:30:23.770 reviews[15592:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:30:23.775 reviews[15592:70b] Unlimited access to network resources
+2014-08-18 13:30:23.788 reviews[15592:70b] [CDVTimer][keyboard] 0.052035ms
+2014-08-18 13:30:23.788 reviews[15592:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:30:23.789 reviews[15592:70b] [CDVTimer][statusbar] 0.429034ms
+2014-08-18 13:30:23.789 reviews[15592:70b] [CDVTimer][TotalPluginStartup] 1.361012ms
+2014-08-18 13:30:23.816 reviews[15592:70b] Resetting plugins due to page load.
+2014-08-18 13:30:23.897 reviews[15592:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:31:18.190 reviews[15869:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:31:18.195 reviews[15869:70b] Unlimited access to network resources
+2014-08-18 13:31:18.207 reviews[15869:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-18 13:31:18.208 reviews[15869:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:31:18.208 reviews[15869:70b] [CDVTimer][statusbar] 0.442028ms
+2014-08-18 13:31:18.209 reviews[15869:70b] [CDVTimer][TotalPluginStartup] 1.367986ms
+2014-08-18 13:31:18.237 reviews[15869:70b] Resetting plugins due to page load.
+2014-08-18 13:31:18.316 reviews[15869:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:31:42.694 reviews[16144:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:31:42.699 reviews[16144:70b] Unlimited access to network resources
+2014-08-18 13:31:42.711 reviews[16144:70b] [CDVTimer][keyboard] 0.049949ms
+2014-08-18 13:31:42.712 reviews[16144:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:31:42.712 reviews[16144:70b] [CDVTimer][statusbar] 0.387013ms
+2014-08-18 13:31:42.713 reviews[16144:70b] [CDVTimer][TotalPluginStartup] 1.308978ms
+2014-08-18 13:31:42.739 reviews[16144:70b] Resetting plugins due to page load.
+2014-08-18 13:31:42.819 reviews[16144:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:32:06.894 reviews[16420:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:32:06.899 reviews[16420:70b] Unlimited access to network resources
+2014-08-18 13:32:06.912 reviews[16420:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-18 13:32:06.913 reviews[16420:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:32:06.913 reviews[16420:70b] [CDVTimer][statusbar] 0.335991ms
+2014-08-18 13:32:06.913 reviews[16420:70b] [CDVTimer][TotalPluginStartup] 1.112998ms
+2014-08-18 13:32:06.941 reviews[16420:70b] Resetting plugins due to page load.
+2014-08-18 13:32:07.027 reviews[16420:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:38:16.373 reviews[16718:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:38:16.378 reviews[16718:70b] Unlimited access to network resources
+2014-08-18 13:38:16.391 reviews[16718:70b] [CDVTimer][keyboard] 0.052035ms
+2014-08-18 13:38:16.391 reviews[16718:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:38:16.392 reviews[16718:70b] [CDVTimer][statusbar] 0.440001ms
+2014-08-18 13:38:16.392 reviews[16718:70b] [CDVTimer][TotalPluginStartup] 1.380980ms
+2014-08-18 13:38:16.420 reviews[16718:70b] Resetting plugins due to page load.
+2014-08-18 13:38:16.500 reviews[16718:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:40:52.597 reviews[17018:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:40:52.603 reviews[17018:70b] Unlimited access to network resources
+2014-08-18 13:40:52.616 reviews[17018:70b] [CDVTimer][keyboard] 0.052035ms
+2014-08-18 13:40:52.616 reviews[17018:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:40:52.617 reviews[17018:70b] [CDVTimer][statusbar] 0.451982ms
+2014-08-18 13:40:52.617 reviews[17018:70b] [CDVTimer][TotalPluginStartup] 1.388013ms
+2014-08-18 13:40:52.644 reviews[17018:70b] Resetting plugins due to page load.
+2014-08-18 13:40:52.728 reviews[17018:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:42:44.245 reviews[17300:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:42:44.250 reviews[17300:70b] Unlimited access to network resources
+2014-08-18 13:42:44.264 reviews[17300:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 13:42:44.264 reviews[17300:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:42:44.265 reviews[17300:70b] [CDVTimer][statusbar] 0.449955ms
+2014-08-18 13:42:44.265 reviews[17300:70b] [CDVTimer][TotalPluginStartup] 1.343012ms
+2014-08-18 13:42:44.293 reviews[17300:70b] Resetting plugins due to page load.
+2014-08-18 13:42:44.375 reviews[17300:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:45:34.625 reviews[17591:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:45:34.630 reviews[17591:70b] Unlimited access to network resources
+2014-08-18 13:45:34.643 reviews[17591:70b] [CDVTimer][keyboard] 0.050008ms
+2014-08-18 13:45:34.643 reviews[17591:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:45:34.644 reviews[17591:70b] [CDVTimer][statusbar] 0.402987ms
+2014-08-18 13:45:34.644 reviews[17591:70b] [CDVTimer][TotalPluginStartup] 1.266003ms
+2014-08-18 13:45:34.671 reviews[17591:70b] Resetting plugins due to page load.
+2014-08-18 13:45:34.752 reviews[17591:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 13:49:55.346 reviews[17765:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 13:49:55.351 reviews[17765:70b] Unlimited access to network resources
+2014-08-18 13:49:55.365 reviews[17765:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-18 13:49:55.365 reviews[17765:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 13:49:55.365 reviews[17765:70b] [CDVTimer][statusbar] 0.460982ms
+2014-08-18 13:49:55.366 reviews[17765:70b] [CDVTimer][TotalPluginStartup] 1.359999ms
+2014-08-18 13:49:55.394 reviews[17765:70b] Resetting plugins due to page load.
+2014-08-18 13:49:55.576 reviews[17765:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 14:14:28.343 reviews[19213:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 14:14:28.351 reviews[19213:70b] Unlimited access to network resources
+2014-08-18 14:14:28.368 reviews[19213:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-18 14:14:28.369 reviews[19213:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 14:14:28.369 reviews[19213:70b] [CDVTimer][statusbar] 0.455976ms
+2014-08-18 14:14:28.369 reviews[19213:70b] [CDVTimer][TotalPluginStartup] 1.258969ms
+2014-08-18 14:14:28.476 reviews[19213:70b] Resetting plugins due to page load.
+2014-08-18 14:14:28.694 reviews[19213:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 14:14:45.144 reviews[19375:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 14:14:45.150 reviews[19375:70b] Unlimited access to network resources
+2014-08-18 14:14:45.163 reviews[19375:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-18 14:14:45.163 reviews[19375:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 14:14:45.163 reviews[19375:70b] [CDVTimer][statusbar] 0.377953ms
+2014-08-18 14:14:45.164 reviews[19375:70b] [CDVTimer][TotalPluginStartup] 1.276970ms
+2014-08-18 14:14:45.190 reviews[19375:70b] Resetting plugins due to page load.
+2014-08-18 14:14:45.355 reviews[19375:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 14:15:50.435 reviews[19529:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 14:15:50.440 reviews[19529:70b] Unlimited access to network resources
+2014-08-18 14:15:50.453 reviews[19529:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-18 14:15:50.453 reviews[19529:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 14:15:50.454 reviews[19529:70b] [CDVTimer][statusbar] 0.455022ms
+2014-08-18 14:15:50.454 reviews[19529:70b] [CDVTimer][TotalPluginStartup] 1.385987ms
+2014-08-18 14:15:50.483 reviews[19529:70b] Resetting plugins due to page load.
+2014-08-18 14:15:50.646 reviews[19529:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 14:36:26.147 reviews[19744:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 14:36:26.152 reviews[19744:70b] Unlimited access to network resources
+2014-08-18 14:36:26.165 reviews[19744:70b] [CDVTimer][keyboard] 0.049949ms
+2014-08-18 14:36:26.165 reviews[19744:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 14:36:26.166 reviews[19744:70b] [CDVTimer][statusbar] 0.454009ms
+2014-08-18 14:36:26.166 reviews[19744:70b] [CDVTimer][TotalPluginStartup] 1.347005ms
+2014-08-18 14:36:26.193 reviews[19744:70b] Resetting plugins due to page load.
+2014-08-18 14:36:26.390 reviews[19744:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 14:44:30.979 reviews[19920:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 14:44:30.984 reviews[19920:70b] Unlimited access to network resources
+2014-08-18 14:44:30.997 reviews[19920:70b] [CDVTimer][keyboard] 0.050008ms
+2014-08-18 14:44:30.997 reviews[19920:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 14:44:30.998 reviews[19920:70b] [CDVTimer][statusbar] 0.481963ms
+2014-08-18 14:44:30.998 reviews[19920:70b] [CDVTimer][TotalPluginStartup] 1.387954ms
+2014-08-18 14:44:31.027 reviews[19920:70b] Resetting plugins due to page load.
+2014-08-18 14:44:31.231 reviews[19920:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 21:41:30.967 reviews[20309:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 21:41:30.972 reviews[20309:70b] Unlimited access to network resources
+2014-08-18 21:41:30.986 reviews[20309:70b] [CDVTimer][keyboard] 0.092983ms
+2014-08-18 21:41:30.986 reviews[20309:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 21:41:30.987 reviews[20309:70b] [CDVTimer][statusbar] 0.379980ms
+2014-08-18 21:41:30.987 reviews[20309:70b] [CDVTimer][TotalPluginStartup] 1.332045ms
+2014-08-18 21:41:31.074 reviews[20309:70b] Resetting plugins due to page load.
+2014-08-18 21:41:31.260 reviews[20309:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 22:09:08.308 reviews[20537:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:09:08.313 reviews[20537:70b] Unlimited access to network resources
+2014-08-18 22:09:08.326 reviews[20537:70b] [CDVTimer][keyboard] 0.050008ms
+2014-08-18 22:09:08.326 reviews[20537:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:09:08.327 reviews[20537:70b] [CDVTimer][statusbar] 0.485003ms
+2014-08-18 22:09:08.327 reviews[20537:70b] [CDVTimer][TotalPluginStartup] 1.429021ms
+2014-08-18 22:09:08.357 reviews[20537:70b] Resetting plugins due to page load.
+2014-08-18 22:09:08.523 reviews[20537:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 22:23:49.875 reviews[20734:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:23:49.880 reviews[20734:70b] Unlimited access to network resources
+2014-08-18 22:23:49.893 reviews[20734:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 22:23:49.894 reviews[20734:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:23:49.894 reviews[20734:70b] [CDVTimer][statusbar] 0.521958ms
+2014-08-18 22:23:49.894 reviews[20734:70b] [CDVTimer][TotalPluginStartup] 1.439989ms
+2014-08-18 22:23:49.922 reviews[20734:70b] Resetting plugins due to page load.
+2014-08-18 22:23:50.113 reviews[20734:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 22:24:06.831 reviews[20885:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:24:06.836 reviews[20885:70b] Unlimited access to network resources
+2014-08-18 22:24:06.848 reviews[20885:70b] [CDVTimer][keyboard] 0.046015ms
+2014-08-18 22:24:06.848 reviews[20885:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:24:06.849 reviews[20885:70b] [CDVTimer][statusbar] 0.337958ms
+2014-08-18 22:24:06.849 reviews[20885:70b] [CDVTimer][TotalPluginStartup] 1.121998ms
+2014-08-18 22:24:06.875 reviews[20885:70b] Resetting plugins due to page load.
+2014-08-18 22:24:07.016 reviews[20885:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 22:41:08.781 reviews[21118:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:41:08.787 reviews[21118:70b] Unlimited access to network resources
+2014-08-18 22:41:08.799 reviews[21118:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 22:41:08.800 reviews[21118:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:41:08.800 reviews[21118:70b] [CDVTimer][statusbar] 0.329018ms
+2014-08-18 22:41:08.800 reviews[21118:70b] [CDVTimer][TotalPluginStartup] 1.076996ms
+2014-08-18 22:41:08.861 reviews[21118:70b] Resetting plugins due to page load.
+2014-08-18 22:41:09.032 reviews[21118:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 22:44:00.748 reviews[21286:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:44:00.753 reviews[21286:70b] Unlimited access to network resources
+2014-08-18 22:44:00.766 reviews[21286:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 22:44:00.767 reviews[21286:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:44:00.767 reviews[21286:70b] [CDVTimer][statusbar] 0.420988ms
+2014-08-18 22:44:00.768 reviews[21286:70b] [CDVTimer][TotalPluginStartup] 1.323044ms
+2014-08-18 22:44:00.794 reviews[21286:70b] Resetting plugins due to page load.
+2014-08-18 22:44:03.862 reviews[21286:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 22:44:07.289 reviews[21286:70b] HomeTabCtrl
+2014-08-18 22:44:09.573 reviews[21286:70b] HomeTabCtrl
+2014-08-18 22:44:10.591 reviews[21286:70b] HomeTabCtrl
+2014-08-18 22:44:12.210 reviews[21286:70b] HomeTabCtrl
+2014-08-18 22:44:13.773 reviews[21286:70b] HomeTabCtrl
+2014-08-18 22:44:57.501 reviews[21445:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:44:57.506 reviews[21445:70b] Unlimited access to network resources
+2014-08-18 22:44:57.519 reviews[21445:70b] [CDVTimer][keyboard] 0.049949ms
+2014-08-18 22:44:57.519 reviews[21445:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:44:57.520 reviews[21445:70b] [CDVTimer][statusbar] 0.455976ms
+2014-08-18 22:44:57.520 reviews[21445:70b] [CDVTimer][TotalPluginStartup] 1.376987ms
+2014-08-18 22:44:57.548 reviews[21445:70b] Resetting plugins due to page load.
+2014-08-18 22:44:58.383 reviews[21445:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 22:45:04.205 reviews[21445:70b] HomeTabCtrl
+2014-08-18 22:45:06.501 reviews[21445:70b] HomeTabCtrl
+2014-08-18 22:45:08.531 reviews[21445:70b] HomeTabCtrl
+2014-08-18 22:46:56.976 reviews[21606:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:46:56.981 reviews[21606:70b] Unlimited access to network resources
+2014-08-18 22:46:56.993 reviews[21606:70b] [CDVTimer][keyboard] 0.052035ms
+2014-08-18 22:46:56.994 reviews[21606:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:46:56.994 reviews[21606:70b] [CDVTimer][statusbar] 0.311017ms
+2014-08-18 22:46:56.995 reviews[21606:70b] [CDVTimer][TotalPluginStartup] 1.143992ms
+2014-08-18 22:46:57.023 reviews[21606:70b] Resetting plugins due to page load.
+2014-08-18 22:46:57.634 reviews[21606:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 22:48:04.250 reviews[21766:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:48:04.255 reviews[21766:70b] Unlimited access to network resources
+2014-08-18 22:48:04.268 reviews[21766:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-18 22:48:04.268 reviews[21766:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:48:04.268 reviews[21766:70b] [CDVTimer][statusbar] 0.340998ms
+2014-08-18 22:48:04.269 reviews[21766:70b] [CDVTimer][TotalPluginStartup] 1.092017ms
+2014-08-18 22:48:04.295 reviews[21766:70b] Resetting plugins due to page load.
+2014-08-18 22:48:05.478 reviews[21766:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 22:52:31.252 reviews[21932:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:52:31.257 reviews[21932:70b] Unlimited access to network resources
+2014-08-18 22:52:31.270 reviews[21932:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-18 22:52:31.270 reviews[21932:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:52:31.271 reviews[21932:70b] [CDVTimer][statusbar] 0.407994ms
+2014-08-18 22:52:31.271 reviews[21932:70b] [CDVTimer][TotalPluginStartup] 1.280010ms
+2014-08-18 22:52:31.297 reviews[21932:70b] Resetting plugins due to page load.
+2014-08-18 22:52:34.255 reviews[21932:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 22:55:17.586 reviews[22095:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:55:17.591 reviews[22095:70b] Unlimited access to network resources
+2014-08-18 22:55:17.603 reviews[22095:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-18 22:55:17.604 reviews[22095:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:55:17.604 reviews[22095:70b] [CDVTimer][statusbar] 0.428975ms
+2014-08-18 22:55:17.604 reviews[22095:70b] [CDVTimer][TotalPluginStartup] 1.368999ms
+2014-08-18 22:55:17.631 reviews[22095:70b] Resetting plugins due to page load.
+2014-08-18 22:55:18.175 reviews[22095:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 22:55:22.921 reviews[22095:70b] HomeTabCtrl
+2014-08-18 22:55:24.049 reviews[22095:70b] HomeTabCtrl
+2014-08-18 22:55:25.322 reviews[22095:70b] HomeTabCtrl
+2014-08-18 22:55:27.339 reviews[22095:70b] HomeTabCtrl
+2014-08-18 22:55:29.698 reviews[22095:70b] HomeTabCtrl
+2014-08-18 22:55:53.211 reviews[22248:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 22:55:53.216 reviews[22248:70b] Unlimited access to network resources
+2014-08-18 22:55:53.228 reviews[22248:70b] [CDVTimer][keyboard] 0.051022ms
+2014-08-18 22:55:53.229 reviews[22248:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 22:55:53.229 reviews[22248:70b] [CDVTimer][statusbar] 0.432968ms
+2014-08-18 22:55:53.229 reviews[22248:70b] [CDVTimer][TotalPluginStartup] 1.331985ms
+2014-08-18 22:55:53.256 reviews[22248:70b] Resetting plugins due to page load.
+2014-08-18 22:55:56.474 reviews[22248:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:01:10.109 reviews[22424:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:01:10.115 reviews[22424:70b] Unlimited access to network resources
+2014-08-18 23:01:10.127 reviews[22424:70b] [CDVTimer][keyboard] 0.051975ms
+2014-08-18 23:01:10.128 reviews[22424:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:01:10.128 reviews[22424:70b] [CDVTimer][statusbar] 0.423014ms
+2014-08-18 23:01:10.128 reviews[22424:70b] [CDVTimer][TotalPluginStartup] 1.372993ms
+2014-08-18 23:01:10.156 reviews[22424:70b] Resetting plugins due to page load.
+2014-08-18 23:01:10.685 reviews[22424:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:01:57.450 reviews[22577:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:01:57.456 reviews[22577:70b] Unlimited access to network resources
+2014-08-18 23:01:57.468 reviews[22577:70b] [CDVTimer][keyboard] 0.046968ms
+2014-08-18 23:01:57.468 reviews[22577:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:01:57.469 reviews[22577:70b] [CDVTimer][statusbar] 0.369966ms
+2014-08-18 23:01:57.469 reviews[22577:70b] [CDVTimer][TotalPluginStartup] 1.269996ms
+2014-08-18 23:01:57.497 reviews[22577:70b] Resetting plugins due to page load.
+2014-08-18 23:01:58.028 reviews[22577:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:03:21.298 reviews[22733:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:03:21.303 reviews[22733:70b] Unlimited access to network resources
+2014-08-18 23:03:21.316 reviews[22733:70b] [CDVTimer][keyboard] 0.048041ms
+2014-08-18 23:03:21.316 reviews[22733:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:03:21.317 reviews[22733:70b] [CDVTimer][statusbar] 0.433981ms
+2014-08-18 23:03:21.317 reviews[22733:70b] [CDVTimer][TotalPluginStartup] 1.401007ms
+2014-08-18 23:03:21.346 reviews[22733:70b] Resetting plugins due to page load.
+2014-08-18 23:03:24.671 reviews[22733:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:26:26.537 reviews[22968:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:26:26.542 reviews[22968:70b] Unlimited access to network resources
+2014-08-18 23:26:26.555 reviews[22968:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 23:26:26.556 reviews[22968:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:26:26.556 reviews[22968:70b] [CDVTimer][statusbar] 0.422001ms
+2014-08-18 23:26:26.556 reviews[22968:70b] [CDVTimer][TotalPluginStartup] 1.271009ms
+2014-08-18 23:26:26.586 reviews[22968:70b] Resetting plugins due to page load.
+2014-08-18 23:26:27.103 reviews[22968:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:30:30.903 reviews[23137:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:30:30.908 reviews[23137:70b] Unlimited access to network resources
+2014-08-18 23:30:30.921 reviews[23137:70b] [CDVTimer][keyboard] 0.052035ms
+2014-08-18 23:30:30.921 reviews[23137:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:30:30.922 reviews[23137:70b] [CDVTimer][statusbar] 0.378966ms
+2014-08-18 23:30:30.922 reviews[23137:70b] [CDVTimer][TotalPluginStartup] 1.366973ms
+2014-08-18 23:30:30.950 reviews[23137:70b] Resetting plugins due to page load.
+2014-08-18 23:30:31.436 reviews[23137:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:31:29.071 reviews[23296:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:31:29.076 reviews[23296:70b] Unlimited access to network resources
+2014-08-18 23:31:29.088 reviews[23296:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-18 23:31:29.089 reviews[23296:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:31:29.089 reviews[23296:70b] [CDVTimer][statusbar] 0.422001ms
+2014-08-18 23:31:29.089 reviews[23296:70b] [CDVTimer][TotalPluginStartup] 1.327991ms
+2014-08-18 23:31:29.118 reviews[23296:70b] Resetting plugins due to page load.
+2014-08-18 23:31:29.650 reviews[23296:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:35:48.578 reviews[23539:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:35:48.583 reviews[23539:70b] Unlimited access to network resources
+2014-08-18 23:35:48.596 reviews[23539:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-18 23:35:48.596 reviews[23539:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:35:48.596 reviews[23539:70b] [CDVTimer][statusbar] 0.302970ms
+2014-08-18 23:35:48.597 reviews[23539:70b] [CDVTimer][TotalPluginStartup] 1.017988ms
+2014-08-18 23:35:48.624 reviews[23539:70b] Resetting plugins due to page load.
+2014-08-18 23:35:52.869 reviews[23539:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 23:36:50.058 reviews[23749:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:36:50.064 reviews[23749:70b] Unlimited access to network resources
+2014-08-18 23:36:50.076 reviews[23749:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-18 23:36:50.076 reviews[23749:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:36:50.077 reviews[23749:70b] [CDVTimer][statusbar] 0.450015ms
+2014-08-18 23:36:50.077 reviews[23749:70b] [CDVTimer][TotalPluginStartup] 1.374006ms
+2014-08-18 23:36:50.105 reviews[23749:70b] Resetting plugins due to page load.
+2014-08-18 23:36:50.614 reviews[23749:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-18 23:37:13.125 reviews[23955:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:37:13.130 reviews[23955:70b] Unlimited access to network resources
+2014-08-18 23:37:13.142 reviews[23955:70b] [CDVTimer][keyboard] 0.047028ms
+2014-08-18 23:37:13.143 reviews[23955:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:37:13.143 reviews[23955:70b] [CDVTimer][statusbar] 0.445008ms
+2014-08-18 23:37:13.144 reviews[23955:70b] [CDVTimer][TotalPluginStartup] 1.327991ms
+2014-08-18 23:37:13.171 reviews[23955:70b] Resetting plugins due to page load.
+2014-08-18 23:37:14.344 reviews[23955:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:46:03.234 reviews[24203:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:46:03.255 reviews[24203:70b] Unlimited access to network resources
+2014-08-18 23:46:03.301 reviews[24203:70b] [CDVTimer][keyboard] 0.196993ms
+2014-08-18 23:46:03.302 reviews[24203:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:46:03.304 reviews[24203:70b] [CDVTimer][statusbar] 1.272976ms
+2014-08-18 23:46:03.305 reviews[24203:70b] [CDVTimer][TotalPluginStartup] 3.946006ms
+2014-08-18 23:46:03.419 reviews[24203:70b] Resetting plugins due to page load.
+2014-08-18 23:46:04.896 reviews[24203:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-18 23:46:44.338 reviews[24412:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 23:46:44.358 reviews[24412:70b] Unlimited access to network resources
+2014-08-18 23:46:44.402 reviews[24412:70b] [CDVTimer][keyboard] 0.178993ms
+2014-08-18 23:46:44.403 reviews[24412:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 23:46:44.405 reviews[24412:70b] [CDVTimer][statusbar] 1.281023ms
+2014-08-18 23:46:44.406 reviews[24412:70b] [CDVTimer][TotalPluginStartup] 3.856957ms
+2014-08-18 23:46:44.506 reviews[24412:70b] Resetting plugins due to page load.
+2014-08-18 23:46:45.628 reviews[24412:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-19 11:18:46.947 reviews[25170:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:18:46.970 reviews[25170:70b] Unlimited access to network resources
+2014-08-19 11:18:46.987 reviews[25170:70b] [CDVTimer][keyboard] 0.051975ms
+2014-08-19 11:18:46.988 reviews[25170:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 11:18:46.988 reviews[25170:70b] [CDVTimer][statusbar] 0.310004ms
+2014-08-19 11:18:46.988 reviews[25170:70b] [CDVTimer][TotalPluginStartup] 1.050949ms
+2014-08-19 11:18:47.133 reviews[25170:70b] Resetting plugins due to page load.
+2014-08-19 11:18:47.716 reviews[25170:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-19 11:19:13.409 reviews[25376:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:19:13.414 reviews[25376:70b] Unlimited access to network resources
+2014-08-19 11:19:13.427 reviews[25376:70b] [CDVTimer][keyboard] 0.050008ms
+2014-08-19 11:19:13.428 reviews[25376:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 11:19:13.428 reviews[25376:70b] [CDVTimer][statusbar] 0.450015ms
+2014-08-19 11:19:13.428 reviews[25376:70b] [CDVTimer][TotalPluginStartup] 1.371026ms
+2014-08-19 11:19:13.456 reviews[25376:70b] Resetting plugins due to page load.
+2014-08-19 11:19:17.196 reviews[25376:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-19 11:20:24.081 reviews[25585:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:20:24.086 reviews[25585:70b] Unlimited access to network resources
+2014-08-19 11:20:24.098 reviews[25585:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-19 11:20:24.099 reviews[25585:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 11:20:24.099 reviews[25585:70b] [CDVTimer][statusbar] 0.440001ms
+2014-08-19 11:20:24.099 reviews[25585:70b] [CDVTimer][TotalPluginStartup] 1.345992ms
+2014-08-19 11:20:24.126 reviews[25585:70b] Resetting plugins due to page load.
+2014-08-19 11:20:27.413 reviews[25585:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-19 11:20:45.964 reviews[25789:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:20:45.969 reviews[25789:70b] Unlimited access to network resources
+2014-08-19 11:20:45.983 reviews[25789:70b] [CDVTimer][keyboard] 0.049949ms
+2014-08-19 11:20:45.983 reviews[25789:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 11:20:45.984 reviews[25789:70b] [CDVTimer][statusbar] 0.375032ms
+2014-08-19 11:20:45.984 reviews[25789:70b] [CDVTimer][TotalPluginStartup] 1.183987ms
+2014-08-19 11:20:46.012 reviews[25789:70b] Resetting plugins due to page load.
+2014-08-19 11:20:49.646 reviews[25789:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-19 11:31:53.144 reviews[26028:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:31:53.149 reviews[26028:70b] Unlimited access to network resources
+2014-08-19 11:31:53.162 reviews[26028:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-19 11:31:53.162 reviews[26028:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 11:31:53.163 reviews[26028:70b] [CDVTimer][statusbar] 0.404954ms
+2014-08-19 11:31:53.163 reviews[26028:70b] [CDVTimer][TotalPluginStartup] 1.411974ms
+2014-08-19 11:31:53.190 reviews[26028:70b] Resetting plugins due to page load.
+2014-08-19 11:31:53.766 reviews[26028:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-19 11:34:50.094 reviews[26247:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:34:50.099 reviews[26247:70b] Unlimited access to network resources
+2014-08-19 11:34:50.111 reviews[26247:70b] [CDVTimer][keyboard] 0.047982ms
+2014-08-19 11:34:50.112 reviews[26247:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 11:34:50.112 reviews[26247:70b] [CDVTimer][statusbar] 0.389040ms
+2014-08-19 11:34:50.113 reviews[26247:70b] [CDVTimer][TotalPluginStartup] 1.286030ms
+2014-08-19 11:34:50.139 reviews[26247:70b] Resetting plugins due to page load.
+2014-08-19 11:34:53.779 reviews[26247:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-19 11:37:37.749 reviews[26464:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:37:37.754 reviews[26464:70b] Unlimited access to network resources
+2014-08-19 11:37:37.767 reviews[26464:70b] [CDVTimer][keyboard] 0.051022ms
+2014-08-19 11:37:37.768 reviews[26464:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 11:37:37.768 reviews[26464:70b] [CDVTimer][statusbar] 0.459015ms
+2014-08-19 11:37:37.768 reviews[26464:70b] [CDVTimer][TotalPluginStartup] 1.339018ms
+2014-08-19 11:37:37.798 reviews[26464:70b] Resetting plugins due to page load.
+2014-08-19 11:37:41.669 reviews[26464:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-08-19 15:55:31.343 reviews[27212:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:55:31.348 reviews[27212:70b] Unlimited access to network resources
+2014-08-19 15:55:31.362 reviews[27212:70b] [CDVTimer][keyboard] 0.048041ms
+2014-08-19 15:55:31.362 reviews[27212:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-19 15:55:31.363 reviews[27212:70b] [CDVTimer][statusbar] 0.441968ms
+2014-08-19 15:55:31.363 reviews[27212:70b] [CDVTimer][TotalPluginStartup] 1.412988ms
+2014-08-19 15:55:31.398 reviews[27212:70b] Resetting plugins due to page load.
+2014-08-19 15:55:34.077 reviews[27212:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-20 14:40:08.129 reviews[28851:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 14:40:08.147 reviews[28851:70b] Unlimited access to network resources
+2014-08-20 14:40:08.233 reviews[28851:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-20 14:40:08.234 reviews[28851:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-20 14:40:08.234 reviews[28851:70b] [CDVTimer][statusbar] 0.334024ms
+2014-08-20 14:40:08.234 reviews[28851:70b] [CDVTimer][TotalPluginStartup] 1.067996ms
+2014-08-20 14:40:08.306 reviews[28851:70b] Resetting plugins due to page load.
+2014-08-20 14:40:08.832 reviews[28851:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-20 22:16:44.703 reviews[29580:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 22:16:44.709 reviews[29580:70b] Unlimited access to network resources
+2014-08-20 22:16:44.722 reviews[29580:70b] [CDVTimer][keyboard] 0.062048ms
+2014-08-20 22:16:44.722 reviews[29580:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-20 22:16:44.723 reviews[29580:70b] [CDVTimer][statusbar] 0.433981ms
+2014-08-20 22:16:44.723 reviews[29580:70b] [CDVTimer][TotalPluginStartup] 1.414001ms
+2014-08-20 22:16:44.752 reviews[29580:70b] Resetting plugins due to page load.
+2014-08-20 22:18:00.665 reviews[29580:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-20 22:22:53.361 reviews[29815:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 22:22:53.366 reviews[29815:70b] Unlimited access to network resources
+2014-08-20 22:22:53.379 reviews[29815:70b] [CDVTimer][keyboard] 0.048995ms
+2014-08-20 22:22:53.380 reviews[29815:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-20 22:22:53.380 reviews[29815:70b] [CDVTimer][statusbar] 0.432968ms
+2014-08-20 22:22:53.381 reviews[29815:70b] [CDVTimer][TotalPluginStartup] 1.332045ms
+2014-08-20 22:22:53.408 reviews[29815:70b] Resetting plugins due to page load.
+2014-08-20 22:22:54.251 reviews[29815:70b] ERROR: Error: [ng:areq] Argument 'findCtrl' is not a function, got undefined
+http://errors.angularjs.org/1.2.17/ng/areq?p0=findCtrl&p1=not%20a%20function%2C%20got%20undefined
+assertArg@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:9335:91
+assertArgFn@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:9345:12
+file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:15025:20
+file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:14430:45
+forEach@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:8191:24
+nodeLinkFn@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:14417:18
+compositeLinkFn@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:13875:25
+nodeLinkFn@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:14465:35
+compositeLinkFn@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:13875:25
+publicLinkFn@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:13780:45
+file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:9275:27
+$eval@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:20382:28
+$apply@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:20480:28
+file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:9273:21
+invoke@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:11763:22
+doBootstrap@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:9271:20
+bootstrap@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:9285:23
+angularInit@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:9198:14
+file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:29533:16
+trigger@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:10403:9
+file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:10674:14
+forEach@[native code]
+forEach@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:8184:18
+eventHandler@file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/lib/ionic/js/ionic.bundle.js:10673:12
+2014-08-20 22:22:54.329 reviews[29815:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-21 14:51:33.914 reviews[30788:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 14:51:33.958 reviews[30788:70b] Unlimited access to network resources
+2014-08-21 14:51:34.098 reviews[30788:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-21 14:51:34.099 reviews[30788:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-21 14:51:34.099 reviews[30788:70b] [CDVTimer][statusbar] 0.398040ms
+2014-08-21 14:51:34.099 reviews[30788:70b] [CDVTimer][TotalPluginStartup] 1.234055ms
+2014-08-21 14:51:34.313 reviews[30788:70b] Resetting plugins due to page load.
+2014-08-21 14:51:34.519 reviews[30788:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-21 14:57:19.568 reviews[30788:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=&radius=25000
+2014-08-21 14:57:29.738 reviews[30788:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=&radius=25000
+2014-08-21 14:57:31.354 reviews[30788:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=&radius=25000
+2014-08-21 14:57:35.168 reviews[30788:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=&radius=25000
+2014-08-21 14:57:35.667 reviews[30788:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=&radius=25000
+2014-08-21 14:57:38.121 reviews[30788:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=&radius=25000
+2014-08-21 14:57:38.710 reviews[30788:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=&radius=25000
+2014-08-24 12:39:02.268 reviews[32942:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-24 12:39:02.312 reviews[32942:70b] Unlimited access to network resources
+2014-08-24 12:39:02.471 reviews[32942:70b] [CDVTimer][keyboard] 0.086010ms
+2014-08-24 12:39:02.471 reviews[32942:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-24 12:39:02.472 reviews[32942:70b] [CDVTimer][statusbar] 0.366986ms
+2014-08-24 12:39:02.472 reviews[32942:70b] [CDVTimer][TotalPluginStartup] 1.231968ms
+2014-08-24 12:39:02.690 reviews[32942:70b] Resetting plugins due to page load.
+2014-08-24 12:39:03.143 reviews[32942:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-24 12:39:12.052 reviews[32942:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Taco&bell&radius=25000&types=food
+2014-08-24 12:41:34.795 reviews[33187:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-24 12:41:34.803 reviews[33187:70b] Unlimited access to network resources
+2014-08-24 12:41:34.824 reviews[33187:70b] [CDVTimer][keyboard] 0.046015ms
+2014-08-24 12:41:34.824 reviews[33187:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-24 12:41:34.824 reviews[33187:70b] [CDVTimer][statusbar] 0.411987ms
+2014-08-24 12:41:34.825 reviews[33187:70b] [CDVTimer][TotalPluginStartup] 1.210988ms
+2014-08-24 12:41:34.890 reviews[33187:70b] Resetting plugins due to page load.
+2014-08-24 12:41:35.299 reviews[33187:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-24 12:47:08.261 reviews[33421:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-24 12:47:08.266 reviews[33421:70b] Unlimited access to network resources
+2014-08-24 12:47:08.278 reviews[33421:70b] [CDVTimer][keyboard] 0.054002ms
+2014-08-24 12:47:08.279 reviews[33421:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-24 12:47:08.279 reviews[33421:70b] [CDVTimer][statusbar] 0.362992ms
+2014-08-24 12:47:08.279 reviews[33421:70b] [CDVTimer][TotalPluginStartup] 1.165986ms
+2014-08-24 12:47:08.307 reviews[33421:70b] Resetting plugins due to page load.
+2014-08-24 12:47:08.822 reviews[33421:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-24 12:50:13.988 reviews[33636:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-24 12:50:13.994 reviews[33636:70b] Unlimited access to network resources
+2014-08-24 12:50:14.006 reviews[33636:70b] [CDVTimer][keyboard] 0.056982ms
+2014-08-24 12:50:14.007 reviews[33636:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-24 12:50:14.007 reviews[33636:70b] [CDVTimer][statusbar] 0.338972ms
+2014-08-24 12:50:14.007 reviews[33636:70b] [CDVTimer][TotalPluginStartup] 1.061976ms
+2014-08-24 12:50:14.036 reviews[33636:70b] Resetting plugins due to page load.
+2014-08-24 12:50:14.616 reviews[33636:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-24 12:51:28.009 reviews[33846:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-24 12:51:28.014 reviews[33846:70b] Unlimited access to network resources
+2014-08-24 12:51:28.027 reviews[33846:70b] [CDVTimer][keyboard] 0.069022ms
+2014-08-24 12:51:28.028 reviews[33846:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-24 12:51:28.028 reviews[33846:70b] [CDVTimer][statusbar] 0.295997ms
+2014-08-24 12:51:28.028 reviews[33846:70b] [CDVTimer][TotalPluginStartup] 1.093984ms
+2014-08-24 12:51:28.082 reviews[33846:70b] Resetting plugins due to page load.
+2014-08-24 12:51:28.507 reviews[33846:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-25 11:00:24.677 reviews[34677:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-25 11:00:24.697 reviews[34677:70b] Unlimited access to network resources
+2014-08-25 11:00:24.722 reviews[34677:70b] [CDVTimer][keyboard] 0.054002ms
+2014-08-25 11:00:24.722 reviews[34677:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-25 11:00:24.723 reviews[34677:70b] [CDVTimer][statusbar] 0.304997ms
+2014-08-25 11:00:24.723 reviews[34677:70b] [CDVTimer][TotalPluginStartup] 1.049995ms
+2014-08-25 11:00:24.883 reviews[34677:70b] Resetting plugins due to page load.
+2014-08-25 11:00:29.676 reviews[34677:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-25 19:34:18.509 reviews[35874:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-25 19:34:18.515 reviews[35874:70b] Unlimited access to network resources
+2014-08-25 19:34:18.541 reviews[35874:70b] [CDVTimer][keyboard] 0.054002ms
+2014-08-25 19:34:18.541 reviews[35874:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-25 19:34:18.541 reviews[35874:70b] [CDVTimer][statusbar] 0.324011ms
+2014-08-25 19:34:18.542 reviews[35874:70b] [CDVTimer][TotalPluginStartup] 1.058996ms
+2014-08-25 19:34:18.610 reviews[35874:70b] Resetting plugins due to page load.
+2014-08-25 19:34:20.492 reviews[35874:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-08-25 19:34:59.237 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 19:34:59.590 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 19:35:03.015 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 19:35:03.046 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:17.015 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:17.398 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:20.909 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:20.910 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:21.764 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:21.765 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:22.307 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:22.308 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:26.507 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:26.509 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:31.801 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:31.802 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:32.659 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:32.660 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:32.842 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:32.844 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:33.003 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:33.004 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:33.154 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:33.155 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 20:04:33.487 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 20:04:33.488 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:04:36.634 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:04:37.317 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:00.505 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:00.509 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:00.657 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:00.659 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:01.035 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:01.036 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:01.349 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:01.351 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:01.525 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:01.526 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:01.653 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:01.654 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:04.986 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:04.988 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:05.710 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:05.711 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:06.158 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:06.159 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:06.509 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:06.510 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:06.676 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:06.679 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:06.855 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:06.856 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:07.022 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:07.024 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-08-25 21:07:07.183 reviews[35874:70b] https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyAvsJwTEgmbLX-eFOc4Asu7A_LVnKUfNd4&query=Mia&Zas&radius=25000&types=food
+2014-08-25 21:07:07.184 reviews[35874:70b] {"html_attributions":[],"results":[],"status":"ZERO_RESULTS"}
+2014-09-06 16:49:14.058 reviews[4440:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:49:14.082 reviews[4440:70b] Unlimited access to network resources
+2014-09-06 16:49:14.415 reviews[4440:70b] [CDVTimer][keyboard] 0.075996ms
+2014-09-06 16:49:14.415 reviews[4440:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-06 16:49:14.416 reviews[4440:70b] [CDVTimer][statusbar] 0.358999ms
+2014-09-06 16:49:14.416 reviews[4440:70b] [CDVTimer][TotalPluginStartup] 1.178980ms
+2014-09-06 16:49:14.546 reviews[4440:70b] Resetting plugins due to page load.
+2014-09-06 16:49:14.864 reviews[4440:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html
+2014-09-08 18:14:25.537 reviews[8132:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 18:14:25.543 reviews[8132:70b] Unlimited access to network resources
+2014-09-08 18:14:25.561 reviews[8132:70b] [CDVTimer][keyboard] 0.083029ms
+2014-09-08 18:14:25.562 reviews[8132:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-08 18:14:25.563 reviews[8132:70b] [CDVTimer][statusbar] 0.620008ms
+2014-09-08 18:14:25.563 reviews[8132:70b] [CDVTimer][TotalPluginStartup] 2.761006ms
+2014-09-08 18:14:25.655 reviews[8132:70b] Resetting plugins due to page load.
+2014-09-08 18:14:25.909 reviews[8132:70b] Finished load of: file:///Users/nvagrawal/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5BB14A31-250D-444C-A433-5E6D65462AEB/reviews.app/www/index.html#/tab/home
+2014-09-08 18:14:40.364 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:40.811 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:41.041 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:41.575 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:41.750 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:42.038 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:42.205 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:42.464 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}
+2014-09-08 18:14:46.943 reviews[8132:70b] {"html_attributions":[],"results":[{"geometry":{"location":{"lat":-33.867591,"lng":151.201196}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png","id":"a97f9fb468bcd26b68a23072a55af82d4b325e0d","name":"Australian Cruise Group","opening_hours":{"open_now":true},"photos":[{"height":242,"html_attributions":[],"photo_reference":"CnRnAAAARHhSnD_tP1e73f0VmadBeXDBfQrgUaRB1yJQdhrtsjL8y8Ac9b9lm-Rkz4ZZKQdsGFGzv3pCab0NOZUrusgTHX1rbCojVFSHvfWS4FTobEPI91tBKqe7Ij1c648q0DnOTJpAqCqZo0dvSQ_fj1Yt2hIQt8n2tyeQ2-37zZrBD16p_BoUsikFaiE2MjEcbtfHHofCfkajJv4","width":200}],"place_id":"ChIJrTLr-GyuEmsRBfy61i59si0","reference":"CoQBeAAAACyMdk_1Wz9Q4hI542JTlkPDqVqJgmb4bhMY_HLwwAyoIYHfO9H-5YsEb58FkFx4IuiBKqAlTZbTF65hI-VzSX2lSHDj8_ydYvmhz7z5O0l_88ihOmgpVno_Cyy1f9wKKVYqi9CK8gXbVtCaIyXwwqM6WxU5-wGzRb1p54W1K0HpEhCqktVP7diJchG1bjgnn51iGhRIfLQ8Vljrhf2OdB3_ie_nkn8q4w","scope":"GOOGLE","types":["travel_agency","restaurant","food","establishment"],"vicinity":"32 The Promenade, King Street Wharf 5, Sydney"},{"geometry":{"location":{"lat":-33.870943,"lng":151.190311}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png","id":"e644f7f34cf875b9919c6548f1b721947362850a","name":"Lunch Cruise with Jazz on Sydney Harbour","opening_hours":{"open_now":true},"photos":[{"height":565,"html_attributions":[],"photo_reference":"CnRnAAAALmduoAw7IHA_-1uyclBOxleMDFnby43pX75mqA0tWAhTz__XiUxo6m5und6nPoX51RTdYJb0ye08eduimptA2cxgfY1FlKyPfelhAJl2vvRmXN1b2sBUSuV7LAA93WtmLoEi9LO6SnsowypxjaK3mhIQAfgeItUxhkaTVn5VfP4z_RoUYt3_xuV64nUz_e9Pvd8Qu1k1rto","width":850}],"place_id":"ChIJLfySpTOuEmsRPCRKrzl8ZEY","reference":"CpQBiQAAAMsXlY2UUMxUDJslXQ8RP9k_keFXDx-4mQi7KkywNE21pEhKEtd7qzM4WPOoXvjlRrBS4ZRYBetHY5_zF45IXYUj2XzZqGLoBqtp06bRyPZc62BGb9LneE-Qs1uJOd_SV6JYgp_gkXr9H5-Qh96Qc1MLMNLcEFXrGMHZPqxpEe4NPVuRjTW_eczCN5kbphiLPBIQhwCX0N7fNynuKbMhW2y0oRoUblr9DWhKKne7AkNoVSHTV28RyOs","scope":"GOOGLE","types":["bar","restaurant","food","establishment"],"vicinity":"37 Bank St, Pyrmont"},{"geometry":{"location":{"lat":-33.86879,"lng":151.194217}},"icon":"http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png","id":"21a0b251c9b8392186142c798263e289fe45b4aa","name":"Rhythmboat Cruises","opening_hours":{"open_now":true},"photos":[{"height":270,"html_attributions":[],"photo_reference":"CnRnAAAA3EdwAGvhf-tgx-jmGXpn84tH36cu4VWw34oPYmvKqztWopLm7_lmBGZNULQu6OZ-QRlZ_6-FQfLKLKWpK3yKH_wBi7szG_O1In-7dtZ89_kvAAMxYhXlgdPZPcl6MtLBZT7jd-B0zhvQjj9YvA8d5hIQduxZWEDYUkWIpxQLnBRz1xoUpRHuOqR7-uWw46VcxVoI_9OFQZs","width":519}],"place_id":"ChIJyWEHuEmuEmsRm9hTkapTCrk","reference":"CoQBdAAAALyZDKrzL-xqPSF_9Wytn8aTeT1YqZLMFEGrTJLX0oC2EoGJFl4SaagMQpJdsnAsW8WJxsXJTSQy3sN2GhxtvBtvWwYv-bwVN4GS3sweQOC4EKk_VQyGckTgVXbhU6CBzsc-beOvlTJ9USiNf5JFigk1VaXEoJZSoh0WbgvbVs9jEhAqrlHUQGeQA-3Z71H2nUZjGhQRHx7aqh-5YaksHRNEnMAGqub9mA","scope":"GOOGLE","types":["restaurant","food","establishment"],"vicinity":"Pyrmont Bay Wharf (Near Australia Maritime Museum), Pyrmont, NSW 2009"}],"status":"OK","$promise":{},"$resolved":true}

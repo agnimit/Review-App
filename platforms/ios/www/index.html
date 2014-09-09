@@ -1,0 +1,103 @@
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    
+    <title>Reviews</title>
+
+    <link href="http://code.ionicframework.com/1.0.0-beta.11/css/ionic.css" rel="stylesheet">
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.20/angular-resource.min.js"></script>
+
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+  </head>
+  <body ng-app="ionicApp" ng-controller="mainCtrl" class="platform-ios platform-cordova platform-webview">
+    
+    <ion-nav-bar class="nav-title-slide-ios7 bar-assertive">
+    </ion-nav-bar>
+             
+    <ion-nav-view class="slide-left-right"></ion-nav-view>
+
+
+    <script id="tabs.html" type="text/ng-template">
+      <ion-tabs class="tabs-icon-top tabs-assertive">
+
+        <ion-tab title="Home" icon="ion-home" href="#/tab/home">
+          <ion-nav-view name="home-tab"></ion-nav-view>
+        </ion-tab>
+
+        <ion-tab title="add" icon="ion-plus" href="#/tab/add">
+          <ion-nav-view name="add-tab"></ion-nav-view>
+        </ion-tab>
+
+      </ion-tabs>
+    </script>
+
+    <script id="home.html" type="text/ng-template">
+      <ion-view title="Home">
+        <ion-content class="padding">
+            <h1>
+              Welcome to {{appName}}!
+            </h1>
+            <a class="button icon icon-right ion-chevron-right" ui-sref="tabs.add">Add Review</a>
+          </p>
+        </ion-content>
+      </ion-view>
+    </script>
+
+
+    <script id="add.html" type="text/ng-template">
+      <ion-view title="Add A Review">
+        <ion-content class="padding">
+          <div class="list list-inset">
+            <label class="item item-input">
+              <textarea type="text" placeholder="Review"></textarea>
+            </label>
+          </div>
+          <button class="button button-positive item" ng-click="findRest()">Search for a Restaurant</button>
+        <ion-content>
+      </ion-view>
+
+    </script>
+
+    <script id="findRestaurant.html" type="text/ng-template">
+      <div class="modal">
+        <ion-header-bar class="bar-secondary">
+          <h1 class="title">Find a Restaurant</h1>
+          <button class="button button-clear button-positive" ng-click="closeRest()">Cancel</button>
+        </ion-header-bar>
+
+        <ion-content>
+            <ul class="list">
+              <li class="item item-toggle">
+                 Search Nearby?
+                 <label class="toggle toggle-assertive">
+                   <input type="checkbox" ng-model="nearby" ng-checked="true">
+                   <div class="track">
+                     <div class="handle"></div>
+                   </div>
+                 </label>
+              </li>
+            </ul>
+            {{url}}
+            {{restaurantList}}
+            <div class="list list-inset">
+              <label class="item item-input">
+                <i class="icon ion-search placeholder-icon"></i>
+                <input ng-model="restaurantQuery.name" type="text" placeholder="Search">
+              </label>
+            </div>
+
+            <button ng-click="searchRest()"class="button button-block button-stable">
+              Search!
+            </button>
+
+        </ion-content>
+      </div>
+    </script>
+
+  </body>
+</html>
